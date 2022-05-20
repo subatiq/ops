@@ -17,6 +17,8 @@ To use, deploy or use a deployed instance of Opservatory.
 
 For more docs on Opservatory, go [here](https://subatiq.github.io/opservatory/)
 
+---
+
 ## Install
 
 ```
