@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+typer = "*"
+requests = "*"
+pyyaml = "*"
+opservatory-cli = "*"
+
+[dev-packages]
+pre-commit = "*"
+black = "*"
+twine = "*"
+
+[requires]
+python_version = "3.9"
