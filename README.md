@@ -31,7 +31,7 @@ pip install opservatory-cli
 ## Configure opservatory server
 
 ```
-ops setup
+sudo ops setup
 ```
 
 In following prompts enter Opservatory server IP or hostname and port (80 by default). Configuration will be saved at `~/.ops/config.json`
