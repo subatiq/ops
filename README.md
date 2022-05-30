@@ -1,6 +1,9 @@
 <p align="center">
     <img src="image.png">
 </p>
+
+# ops
+
 <p align="center">
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/subatiq/ops?color=black&style=for-the-badge">
   <img alt="PyPI" src="https://img.shields.io/pypi/v/opservatory-cli?color=black&style=for-the-badge">
@@ -9,9 +12,6 @@
   <img alt="Code style" src="https://img.shields.io/badge/code%20style-black-black?style=for-the-badge">
 </p>
 
-# ops
-
----
 
 [Opservatory](https://github.com/subatiq/opservatory) CLI
 
